@@ -24,6 +24,7 @@ This microservice comes with some rudimentary tests as a good starting point for
 > ./mvnw test
 ```
 and something fixes #2
+and then fixes #3
 
 Extend the project
 --------------------
