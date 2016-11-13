@@ -23,7 +23,7 @@ This microservice comes with some rudimentary tests as a good starting point for
 ```shell
 > ./mvnw test
 ```
-and something
+and something fixes #2
 
 Extend the project
 --------------------
